@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Stay Current",
+    "description": "Add a context menu option for links to force them to open in the current tab.",
+    "version": "1.0",
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "permissions": [
+        "activeTab",
+        "contextMenus"
+    ],
+
+    "icons": {
+        "64": "icon.png"
+    }
+}
