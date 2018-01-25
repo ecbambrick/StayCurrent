@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Stay Current",
-    "description": "Add a context menu option for links to force them to open in the current tab.",
-    "version": "1.0",
+    "description": "Some links will always open in a new tab but this may not always be the behaviour you would like. This add-on adds a new context menu item that forces the link to open in the current tab.",
+    "version": "1.1",
 
     "background": {
         "scripts": [
